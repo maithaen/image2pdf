@@ -20,6 +20,9 @@ A simple and efficient command-line tool to convert images into PDF files. Suppo
 git clone <https://github.com/maithaen/image2pdf.git>
 cd image2pdf
 
+Windows users can download the executable directly:
+[Download image2pdf for Windows](https://github.com/maithaen/image2pdf/releases/download/image2pdf/image2pdf.exe)
+
 ## Build
 
 go build -o image2pdf.exe main.go
